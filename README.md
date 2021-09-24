@@ -4,7 +4,7 @@
 - 👋 Hi, I’m Mouhcine HOUIRI
 - 👀 I’m a Mobile/Web Developer.
 - 🌱 Technical Staff at [42 Abudhabi](https://twitter.com/42AbuDhabi)
-- 📫 For more informations or cantact ,You can reach me on [@mouhcinehouiri](mouhcine-houiri.com)
+- 📫 For more informations or cantact ,You can reach me on  <a href="https://www.linkedin.com/in/mouhcine-houiri-b63690152/" target="_blank">Linkedin</a>
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&email=hide&leet_logo=hide&login=mohouiri)](https://github.com/mohouyizme/1337-readme)
 

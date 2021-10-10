@@ -1,9 +1,8 @@
 
 
 
-- 👋 Hi, I’m Mouhcine HOUIRI
-- 👀 I’m a Mobile/Web Developer.
-- 🌱 Technical Staff at [42 Abudhabi](https://twitter.com/42AbuDhabi)
+- 👋 Hi, I’m Mouhcine HOUIRI I am a fullstack Mobile/Web developer, I work with Flutter to create great responsive mobile/web apps. I can work as well with Javascript frameworks like ReactJS, React Native, NodeJS,... & Python 🐍.
+- 🌱 Technical and pedago Staff at [42 Abudhabi](https://twitter.com/42AbuDhabi)
 - 📫 For more informations or cantact ,You can reach me on  <a href="https://www.linkedin.com/in/mouhcine-houiri-b63690152/" target="_blank">Linkedin</a>
 
  <a  href="https://www.linkedin.com/in/mouhcine-houiri-b63690152/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

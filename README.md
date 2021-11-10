@@ -1,7 +1,7 @@
 
 
 
-- 👋 Hi, I’m Mouhcine HOUIRI I am a fullstack Mobile/Web developer, I work with Flutter to create great responsive mobile/web apps. I can work as well with Javascript frameworks like ReactJS, NodeJS,... & Python 🐍.
+- 👋 Hi, I’m Mouhcine HOUIRI I am a fullstack Mobile/Web developer, I work with Flutter to create great responsive mobile/web apps. I can work as well with Javascript frameworks like ReactJS, NodeJS, NextJs, TypeScript... & Python 🐍.
 - 🌱 Technical and pedago Staff at [42 Abudhabi](https://twitter.com/42AbuDhabi)
 - 📫 For more informations or contact ,You can reach me on :
 
